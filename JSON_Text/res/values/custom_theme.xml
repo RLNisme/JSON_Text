@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="customeMain"
+            parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/myMainActionStyle</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+    </style>
+    
+    <style name="myMainActionStyle"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/mymainbarcolor</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customeSecond"
+            parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/mySecondActionStyle</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="mySecondActionStyle"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/myscondbarcolor</item>
+    </style>
+
+</resources>

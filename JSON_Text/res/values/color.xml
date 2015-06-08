@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="def">#2196F3</color>
+    <color name="pressed">#1976D2</color>
+    <color name="focus">#1E88E5</color>
+    <color name="shadow">#1565C0</color>
+    <color name="panel">#FAFAFA</color>
+    <color name="mymainbarcolor">#4CAF50</color>
+    <color name="myscondbarcolor">#3F51B5</color>
+</resources>
